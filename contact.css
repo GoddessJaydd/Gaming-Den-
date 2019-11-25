@@ -1,0 +1,58 @@
+body{
+  background-image: url('https://webdesignerdepot.s3.amazonaws.com/default-images/25.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 0;
+
+}
+.sidenav{
+  height: 100%;
+  width: 150px;
+  position:fixed;
+  background-color: ;
+  overflow: hidden;
+  padding-top: 30px;
+
+}
+.sidenav a{
+padding: 16px 8px 8px 18px;
+font-size: 25px;
+text-decoration: none;
+color: white;
+display: block;
+
+}
+.sidenav a:hover{
+  color: ;
+
+}
+.maincon{
+  border: 1px white;
+}
+h1{
+  font-size: 45px;
+  padding-top: 100px;
+  text-align: center;
+  font-family: lato;
+  color: white;
+  text-shadow: 2px 4px #7981fe;
+}
+h2{
+padding:75px;
+padding-left: 35%;
+font-size: 25px;
+font-family: lato;
+color: white;
+
+}
+.footer{
+  padding: 8px;
+  position:fixed;
+  left: 0;
+  bottom:0;
+  width: 100%;
+  background-color: ;
+  text-align: left;
+  color: white;
+  text-family: 8px;
+}
